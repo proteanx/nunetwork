@@ -2,14 +2,14 @@
 
 DataFeed Link: https://raw.githubusercontent.com/proteanx/nunetwork/master/proteusnufeed.json
 
-Park Rates=32.555-40.648% (23days-6months) + Min Fee=10 NSR / 0.01 USNBT // Currently No Custodians & No Motion Votes 
+Park Rates=22.555-33.648% (23days-6months) + Min Fee=10 NSR / 0.01 USNBT // Currently No Custodians & No Motion Votes 
 
 US-NBT Park Rates - 
 
-22.8 Days  = 32.555%
-1.5 Months = 34.183%
-3.0 Months = 35.892%
-6.1 Months = 40.658%
+22.8 Days  = 22.555%
+1.5 Months = 24.183%
+3.0 Months = 26.892%
+6.1 Months = 33.658%
 
 Fees - 
 
