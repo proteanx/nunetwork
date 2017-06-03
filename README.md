@@ -14,7 +14,7 @@ US-NBT Park Rates -
 Fees - 
 
 USNBT =  0.01 NBT
-NSR   =  10 NSR
+NSR   =  0 NSR (resolving transaction issues)
 
 Custodians =  NONE
 
