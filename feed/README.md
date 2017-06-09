@@ -1,6 +1,6 @@
 # Proteus Community Data Feed
 
-DataFeed Link: https://raw.githubusercontent.com/proteanx/nunetwork/master/proteusnufeed.json
+DataFeed Link: https://github.com/proteanx/nunetwork/raw/master/feed/proteusnufeed.json
 
 Park Rates=22.555-33.648% (23days-6months) + Min Fee=10 NSR / 0.01 USNBT // Currently No Custodians & No Motion Votes 
 

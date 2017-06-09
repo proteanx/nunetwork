@@ -5,7 +5,7 @@ Installation instructions -
 $ sudo apt-get install libssl-dev libdb++-dev libminiupnpc-dev
 $ sudo apt-get install libboost-dev libboost-system-dev libboost-filesystem-dev libboost-program-options-dev libboost-thread-dev libcurl4-openssl-dev
 $ cd ~/
-$ wget 'http'
+$ wget 'https://github.com/proteanx/nunetwork/raw/master/armhf/nud'
 $ sudo mv nud /usr/bin/
 $ sudo chmod a+x /usr/bin/nud
 

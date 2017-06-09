@@ -6,6 +6,6 @@ Here you can find my NuShares voting/minting DataFeed as well as binaries & inst
 for free to the community! Please feel free to examine my packages & binaries but if you do please take the time to
 provide your findings to the community & verify the integrity of my offerings.
 
-DataFeed Link: https://raw.githubusercontent.com/proteanx/nunetwork/master/proteusnufeed.json
+DataFeed Link: https://github.com/proteanx/nunetwork/raw/master/feed/proteusnufeed.json
 
 You can find installation instructions in the subfolder ReadMe files.
