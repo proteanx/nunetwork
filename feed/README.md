@@ -15,8 +15,7 @@ US-NBT Park Rates -
 
 Fees - 
 
-USNBT =  0.01 NBT
-NSR   =  0.01 NSR (resolving transaction issues)
+Temporarily Removed Fee Votes (Small Fish)
 
 Custodians =  NONE
 
