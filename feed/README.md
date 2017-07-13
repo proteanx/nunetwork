@@ -6,10 +6,10 @@ DataFeed Link: https://github.com/proteanx/nunetwork/raw/master/feed/proteusnufe
 
 US-NBT Park Rates - 
 
-22.8 Days  = 12.755%
-1.5 Months = 15.183%
-3.0 Months = 20.592%
-6.1 Months = 23.658%
+22.8 Days  =  8.755%
+1.5 Months = 10.183%
+3.0 Months = 14.592%
+6.1 Months = 20.658%
 
 Fees - 
 
