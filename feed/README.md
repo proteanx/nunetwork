@@ -1,10 +1,8 @@
 # Proteus Community Data Feed
 
-7/9/17 - Updated Park Rates (decreased) & Removed Motion (New Motion Schedules or Next Week)
+7/13/17 - Added motion in support of terminating Phoenix as Chief of Liquidity
 
 DataFeed Link: https://github.com/proteanx/nunetwork/raw/master/feed/proteusnufeed.json
-
-Park Rates=12.755-23.648% (23days-6months) + Min Fee=10 NSR / 0.01 USNBT // Currently No Custodians & No Motion Votes 
 
 US-NBT Park Rates - 
 
@@ -19,4 +17,16 @@ Temporarily Removed Fee Votes
 
 Custodians =  NONE
 
-Motions =  Removed previous motion (community discussion currently weighing options)
+Motions =  "85e73754a3289f48344c9f6e298d9f2a6db282a7" (Motion Copied Below)
+
+Motion Hash '85e73754a3289f48344c9f6e298d9f2a6db282a7'
+
+MOTION TO TERMINATE THE CURRENT CHIEF OF LIQUIDITY OPERATIONS (FORUM NAME @PHOENIX)
+
+This motion would officially terminate @Phoenix as Chief of Liquidity Operations.
+
+This motion does not elect anyone to replace @Phoenix.
+
+Enforcement of this motion includes @Phoenix surrendering any remaining NuNetwork assets still in his possession or control including but not limited to digital currencies, account logins, information related to services rendered for Nu & and/or any other information considered pertinent to NuNetwork liquidity operations; to @jooize or another existing trusted NuNetwork custodian.
+
+Liquidity operations continue in its current state without a Chief of Liquidity Operations until a new Chief is elected via motion or until shareholders establish a new authority hierarchy via motion.
