@@ -1,6 +1,6 @@
 # Proteus Community Data Feed
 
-7/13/17 - Added motion in support of terminating Phoenix as Chief of Liquidity
+7/19/17 - Updated motion in support of terminating Phoenix as Chief of Liquidity
 
 DataFeed Link: https://github.com/proteanx/nunetwork/raw/master/feed/proteusnufeed.json
 
@@ -17,9 +17,7 @@ Temporarily Removed Fee Votes
 
 Custodians =  NONE
 
-Motions =  "85e73754a3289f48344c9f6e298d9f2a6db282a7" (Motion Copied Below)
-
-Motion Hash '85e73754a3289f48344c9f6e298d9f2a6db282a7'
+Motions =  "9b6f309dc9e437129c6ad13ce98357cf3a5dd967" (Motion Hash Updated)
 
 MOTION TO TERMINATE THE CURRENT CHIEF OF LIQUIDITY OPERATIONS (FORUM NAME @PHOENIX)
 
