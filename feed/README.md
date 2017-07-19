@@ -3,7 +3,9 @@
 7/19/17 - Updated motion in support of terminating Phoenix as Chief of Liquidity
 
 DataFeed Link: https://github.com/proteanx/nunetwork/raw/master/feed/proteusnufeed.json
+
 Signature Link: https://raw.githubusercontent.com/proteanx/nunetwork/master/feed/proteanx-feed.sig
+
 Signature Address: SUXZ79mQCL7XXhUKFAgpRRkGCwqUpzB8oC
 
 US-NBT Park Rates - 
