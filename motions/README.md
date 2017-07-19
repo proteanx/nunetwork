@@ -1,4 +1,6 @@
-# Current Motion 9b6f309dc9e437129c6ad13ce98357cf3a5dd967 (to terminate Phoenix)
+# Current Motion (to terminate Phoenix)
+
+Motion Hash '9b6f309dc9e437129c6ad13ce98357cf3a5dd967'
 
 MOTION TO TERMINATE THE CURRENT CHIEF OF LIQUIDITY OPERATIONS (FORUM NAME @PHOENIX)
 
